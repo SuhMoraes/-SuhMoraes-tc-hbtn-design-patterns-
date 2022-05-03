@@ -1,4 +1,4 @@
-public class VideoMediaPlayer  implements AdvancedMediaPlayer{
+public class VideoMediaPlayer implements AdvancedMediaPlayer{
 
     @Override
     public void reproduzirVlc(TipoMedia tipoMedia, String nome) {

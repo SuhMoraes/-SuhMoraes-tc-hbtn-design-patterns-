@@ -8,8 +8,6 @@ public class Program {
         VideoMediaPlayer videoMediaPlayer = new VideoMediaPlayer();
         videoMediaPlayer.reproduzirMp4("Uncharted.mp4");
 
-        System.out.println();
-
         audioPlayer.reproduzir(TipoMedia.VLC, "Moon Knight S01E01.vlc");
     }
 }
